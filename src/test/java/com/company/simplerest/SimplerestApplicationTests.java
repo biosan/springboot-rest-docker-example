@@ -1,4 +1,4 @@
-package com.capgemini.simplerest;
+package com.company.simplerest;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

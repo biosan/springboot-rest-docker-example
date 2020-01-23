@@ -1,4 +1,4 @@
-package com.capgemini.simplerest;
+package com.company.simplerest;
 
 import java.util.Arrays;
 import java.util.List;
